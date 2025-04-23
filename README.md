@@ -4,6 +4,9 @@
 
 Hi, I'm **Burak Alkan**, a Computer Engineer with a strong passion for full-stack development and data analytics.  
 
+That's ny Cv [BurakAlkan2025cv.pdf](https://github.com/user-attachments/files/19866644/BurakAlkan2025cv.pdf)
+
+
 ---
 
 ## 🛠️ Technical Skills
