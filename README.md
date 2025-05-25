@@ -30,6 +30,8 @@ That's my Cv [BurakAlkan2025cv.pdf](https://github.com/user-attachments/files/19
 - Excel  
 - Power BI
 - A/B Testing
+- Data StoryTelling
+- Sectoral Analysis ( kpi , cohort , churn and more...)
 
 ---
 ##  For Data🧠 Projects
