@@ -18,7 +18,8 @@ That's my Cv [BurakAlkan2025cv.pdf](https://github.com/user-attachments/files/19
 - Node.js  
 - Express.js  
 - PostgreSQL  
-- Tailwind / CSS  
+- Tailwind / CSS
+- MaterialUI
 
 ### 📊 Data Analysis
 - Python  
