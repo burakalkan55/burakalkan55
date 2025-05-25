@@ -12,7 +12,9 @@ That's my Cv [BurakAlkan2025cv.pdf](https://github.com/user-attachments/files/19
 ## 🛠️ Technical Skills
 
 ### 💻 Full-Stack Development
-- React.js  
+- React.js
+- Next.js
+- TypeScript
 - Node.js  
 - Express.js  
 - PostgreSQL  
@@ -24,21 +26,8 @@ That's my Cv [BurakAlkan2025cv.pdf](https://github.com/user-attachments/files/19
 - Excel  
 - Power BI  
 ---
-
-## 🧠 Projects
-
-### 📦 Digital Warehouse Transformation System
-A large-scale full-stack application developed for digital warehouse transformation.  
-Includes AI-powered features to optimize inventory control and enhance operational efficiency.  
-**Technologies used:** React.js, Node.js, Express.js, PostgreSQL, Python (ML)
---This project's source codes are private due to my job contract.
-
-
-### 📈 Data Fields Jobs Analysis
-A data-driven analysis platform designed to explore trends in data-related job markets.  
-Provides interactive dashboards and insightful metrics to support career decision-making and workforce planning.  
-**Technologies used:** SQL (complex queries, joins, subqueries)
-Link : https://github.com/burakalkan55/Data-Analysis-With-SQL
+##  For Data🧠 Projects
+https://github.com/stars/burakalkan55/lists/data-analysis
 
 Check for more on my Kaggle : https://www.kaggle.com/burak1alkan
 
