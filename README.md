@@ -21,11 +21,16 @@ That's my Cv [BurakAlkan2025cv.pdf](https://github.com/user-attachments/files/19
 - Tailwind / CSS
 - MaterialUI
 
+- ##  For Full-Stack🧠 Projects
+https://github.com/stars/burakalkan55/lists/data-analysis
+
 ### 📊 Data Analysis
 - Python  
 - SQL  
 - Excel  
-- Power BI  
+- Power BI
+- A/B Testing
+
 ---
 ##  For Data🧠 Projects
 https://github.com/stars/burakalkan55/lists/data-analysis
