@@ -41,7 +41,7 @@ Check for more on my Kaggle : https://www.kaggle.com/burak1alkan
 
 ## 📫 Contact Me
 
-- 📧 Email: alkanburak13@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/burak-alkan-827619198/  
+- 📧 Email: alkanburak131@gmail.com  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/burak-alkan-827619198/ ](https://www.linkedin.com/in/burakalkan55/) 
 
 
