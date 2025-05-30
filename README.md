@@ -22,7 +22,7 @@ That's my Cv [BurakAlkan2025cv.pdf](https://github.com/user-attachments/files/19
 - MaterialUI
 
 - ##  For Full-Stack🧠 Projects
-[https://github.com/stars/burakalkan55/lists/data-analysis](https://github.com/stars/burakalkan55/lists/full-stack)
+https://github.com/stars/burakalkan55/lists/full-stack
 
 ### 📊 Data Analysis
 - Python  
