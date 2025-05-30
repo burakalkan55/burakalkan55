@@ -37,7 +37,7 @@ That's my Cv [BurakAlkan2025cv.pdf](https://github.com/user-attachments/files/19
 ##  For Data🧠 Projects
 https://github.com/stars/burakalkan55/lists/data-analysis
 
-Check for more on my Kaggle : https://www.kaggle.com/burak1alkan
+Check for more on my Kaggle ( EDA Analysis with Python )  : https://www.kaggle.com/burak1alkan
 
 ## 📫 Contact Me
 
