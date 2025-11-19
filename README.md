@@ -1,23 +1,47 @@
 # Burak Alkan – Full-Stack Developer 
 
-## 💼 About Me
-
-Hi, I'm **Burak Alkan**, a Computer Engineer with a strong passion for full-stack development  
-
-That's my Cv : [BurakAlkan2025cv-izmir.pdf](https://github.com/user-attachments/files/22799148/BurakAlkan2025cv-izmir.pdf)
+🌟 Hi there, I'm Burak! 👋 |
 
 
+🌍 About Me
 
+💻 Passionate about full-stack development
+🚀 Building modern web apps with clean architecture
+📈 Always learning, always improving
+
+# 🛠️ Technical Skills
+
+## 🎨 Frontend Development
+- 🌐 HTML  
+- 🎨 CSS  
+- ⚡ JavaScript (ES6+)  
+- 🌀 TypeScript  
+- ⚛️ React.js  
+- ▲ Next.js  
+- 🎛️ Material UI  
+- 📦 shadcn/ui  
 ---
+## 🧩 Backend Development
+- 🟩 Node.js  
+- 🧭 Express.js  
+- 🔗 Prisma ORM  
+- 🐘 PostgreSQL  
+---
+## ☁️ DevOps & Cloud
+- 📦 Docker  
+- ☁️ AWS (EC2, S3, RDS, IAM – basic)  
+- 🗂️ Git / GitHub  
+---
+## 🔧 Tools & Methodologies
+- 📐 Agile Methodologies  
+- 🧩 Scrum  
+- 📊 Kanban  
+- 📝 Jira / Trello  
+- 🧪 Postman
 
-## 🛠️ Technical Skills
-
-### 💻 Full-Stack Development
-<img width="760" height="227" alt="image" src="https://github.com/user-attachments/assets/55930208-d112-41f8-9c07-05fd73a1440c" />
-
-
+  
 - ##  For Full-Stack🧠 Projects
-https://github.com/stars/burakalkan55/lists/full-stack
+[https://github.com/stars/burakalkan55/lists/full-stack](https://github.com/stars/burakalkan55/lists/full-stack-development)
 
 
 ## 📫 Contact Me
