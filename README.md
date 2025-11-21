@@ -40,8 +40,9 @@
 - 🧪 Postman
 
   
-- ##  For Full-Stack🧠 Projects
-[https://github.com/stars/burakalkan55/lists/full-stack](https://github.com/stars/burakalkan55/lists/full-stack-development)
+- ## For My Latest Full-Stack Project
+  -> https://github.com/burakalkan55/TaskerPro
+
 
 
 ## 📫 Contact Me
